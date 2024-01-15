@@ -1,0 +1,25 @@
+Braille serves as a tactile writing system designed for the visually impaired.
+It can be accessed either via embossed paper or by employing refreshable braille displays connected to computer systems and mobile devices.
+Writing in braille can be accomplished through a slate and stylus, a braille writer, an electronic braille display or with the help of a computer connected to a braille embosser.
+
+The name 'Braille' pays homage to its inventor, Louis Braille, a French native who became blind following an accident during his childhood. 
+At the age of fifteen in 1824, he came up with the braille code, which stood as an enhancement to night writing and was based on the French alphabet.
+Louis Braille published his system which later incorporated musical notations in 1829.
+The system's second revision, released in 1837, marked the advent of the first binary writing form in recent history.
+
+Characters in Braille are formed using a matrix of six embossed dots arranged in a 3x2 matrix, referred to as the braille cell.
+The quantity and configuration of these dots differentiate one character from another.
+As different braille alphabets originally served as transcription codes for written text, the mappings, or sets of assigned character designations, vary across languages, and even within a single language.
+For instance, there are three levels of Braille in English: Uncontracted Braille, which is a transcription method used for basic literacy where each letter is represented individually; Contracted Braille, which includes abbreviations and contractions as a strategy to conserve space; and Grade 3, a variant of personal shorthand writing that is not standardized and less widely used.
+
+Apart from embossing braille text, which includes letters, punctuation, and contractions, it's also feasible to create embossed illustrations and graphs. These can be outlined either with solid lines or composed of series of dots, arrows, or bullets that are larger in size than braille dots.
+A complete braille cell comprises six elevated dots positioned in two columns, with each column containing three dots.
+The positions of these dots are identified using numbers ranging from one to six.
+With 64 possible configurations, including the empty cell which signifies a word space, these dot arrangements can not only symbolize a letter, digit, punctuation mark, but also a complete word.
+
+Receiving braille education early on plays a significant role in fostering literacy, education, and career opportunities among visually impaired individuals.
+Despite the emergence of new technologies, such as screen reader software which vocalizes information, braille enables the blind to access spelling, punctuation, and other elements of written language which might not be as comprehensible through audio alone.
+
+Though some speculate that audio-based technologies might diminish the necessity for braille, technological advancements like braille displays have continued to enhance braille's accessibility and prevalence.
+Similar to the importance of print for sighted individuals, users of braille emphasize the essentiality of braille.
+
