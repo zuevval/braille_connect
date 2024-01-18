@@ -160,6 +160,87 @@ HEY! Can you wait?
 My feet hurt.
 
 cap. word hey   excl. pt.    cap. can  you  wait   ?
-⠠⠠ ⠓⠑⠽             ⠖       ⠠    ⠉   ⠽   ⠺⠁⠊⠞ ⠦
+⠠⠠ ⠓⠑⠽             ⠖       ⠠    ⠉   ⠽   ⠺⠁⠊⠞  ⠦
 cap. my  feet    hurt .
 ⠠ ⠍⠽   ⠋⠑⠑⠞  ⠓⠥⠗⠞ ⠲ 
+
+---------------------------------------------------
+
+UNIT 4 SYMBOLS FOR OPERATIONS AND COMPARISONS
+
+The subsequent symbols are crafted using two cells. The initial cell is referred to as a prefix (typically comprised of dots 4, 5, and 6, as they are not used as letters).
+
+These symbols for operations and comparisons are employed with numbers, just as they are in print.
+
+OPERATION SYMBOLS
+These operation symbols are created using the dot 5 prefix, and no space is left between the operation symbol and the numbers.
+
+Plus (+) ⠐⠖
+Minus (-) ⠐⠤
+Multiplication (x) ⠐⠦
+Multiplication dot (∙) ⠐⠲
+Divided by (÷) ⠐⠌
+
+Examples:
+ 5   +   6
+
+⠼⠑ ⠐⠖  ⠼⠋
+
+10    -    2
+
+⠼⠁⠚ ⠐⠤   ⠼⠃
+
+100    x    52
+
+⠼⠁⠚⠚ ⠐⠦  ⠼⠑⠃
+
+   7   ∙  8
+
+⠀⠼⠛ ⠐⠲  ⠼⠓
+
+25    ÷   5
+
+⠼⠃⠑ ⠐⠌  ⠼⠑
+
+
+COMPARISON SYMBOLS
+These comparison symbols are formed using either the dot 4 prefix (for < and >) or the dot 5 prefix (for =). Unlike the previous operation symbols, a blank space is left before and after the 2-cell symbol.
+
+Equals (=) ⠐⠶
+Less than (<) ⠈⠣
+Greater than (>) ⠈⠜
+
+Examples:
+
+10     =   5    +   4
+⠼⠁⠚⠀⠐⠶⠀ ⠼⠑  ⠐⠖  ⠼⠙
+
+
+24    ∙   8    =
+⠼⠃⠙ ⠐⠲  ⠼⠓⠀⠐⠶
+
+33    ÷    3   =   11
+
+⠼⠉⠉ ⠐⠌  ⠼⠉⠀⠐⠶⠀ ⠼⠁⠁
+
+True   or   false   6   x   6    <  38
+
+⠞⠗⠥⠑⠀⠕⠗⠀⠋⠁⠇⠎⠑⠀⠼⠋ ⠐⠦  ⠼⠋⠀⠈⠣⠀ ⠼⠉⠓
+
+a  +   3   >  7
+
+⠁ ⠐⠖ ⠼⠉⠀⠈⠜⠀⠼⠛
+
+Tally Marks
+Tally Mark ( ||||| ) ⠸
+Strikethrough ⠒
+
+A tally mark is depicted by a vertical line (dots 4-5-6). Sets of tally marks consist of 5 tally marks followed by a space, but they can also be represented as 4 tally marks followed by a strikethrough (dots 2-5) and then a space, forming a "five-bar gate."
+
+Examples:
+ |||||   |||
+⠸⠸⠸⠸⠸⠀⠸⠸⠸
+
+ ||||    ||||    ||
+
+⠸⠸⠸⠸⠒⠀⠸⠸⠸⠸⠒⠀⠸⠸
