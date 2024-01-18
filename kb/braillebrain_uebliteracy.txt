@@ -1,1 +1,68 @@
-Intial commit
+UNIT 2 Alphabetic Wordsigns
+
+Can you decipher this text?
+
+Gr8 prty at CSU, 9PM. BYOB ‘n don’t 4get 2 RSVP.
+
+Now try once more.
+
+Great party at California State University, 9:00 Post Meridiem. Bring Your Own Bottle and do not forget to Répondez S'il Vous Plait.
+
+The abbreviated words and phrases condensed the passage, making it more accessible. This practice is also employed in braille. Braille utilizes a system of contracted or abbreviated letter combinations to enhance reading speed and efficiency. This form is known as contracted braille or grade 2 braille. Uncontracted braille or grade 1 braille refers to letters or words that are not abbreviated. The terminology is unrelated to academic grades.
+
+Alphabetic Wordsigns
+
+In braille, certain words are represented by a single alphabet letter, simplified for contraction. There are 23 Alphabetic Wordsigns, following the Stand Alone Rule (where 'a,' 'i,' and 'o' already have independent meanings).
+
+Stand Alone Rule:
+
+When a single letter stands alone with an empty space before and after it, we read it in its contracted form (grade 2), and it conveys an entire word meaning.
+
+Example: "you can do it" becomes "y c d x"
+
+As follows: y c d x
+
+Braille Print Word
+⠃ b but
+⠉ c can
+⠙ d do
+⠑ e every
+⠋ f from
+⠛ g go
+⠓ h have
+⠚ j just
+⠅ k knowledge
+⠇ l like
+⠍ m more
+⠝ n not
+⠏ p people
+⠟ q quite
+⠗ r rather
+⠎ s so
+⠞ t that
+⠥ u us
+⠧ v very
+⠺ w will
+⠭ x it
+⠽ y you
+⠵ z as
+
+Examples:
+as you like it
+⠵ ⠽ ⠇ ⠭
+
+you have more knowledge
+⠽ ⠓ ⠍ ⠅
+
+people can go every place
+⠏ ⠉ ⠛ ⠑ ⠏⠇⠁⠉⠑
+
+it is rather hot
+⠭ ⠊⠎ ⠗ ⠓⠕⠞
+
+we will have no more
+⠺⠑ ⠺ ⠓ ⠝⠕ ⠍
+
+you do very well so we will make you boss
+⠽ ⠙ ⠧ ⠺⠑⠇⠇ ⠎ ⠺⠑ ⠺ ⠍⠁⠅⠑ ⠽ ⠃⠕⠎⠎
+
