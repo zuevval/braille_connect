@@ -49,20 +49,58 @@ Braille Print Word
 
 Examples:
 as you like it
-⠵ ⠽ ⠇ ⠭
+⠵  ⠽    ⠇  ⠭
 
 you have more knowledge
-⠽ ⠓ ⠍ ⠅
+⠽    ⠓    ⠍    ⠅
 
 people can go every place
-⠏ ⠉ ⠛ ⠑ ⠏⠇⠁⠉⠑
+⠏      ⠉   ⠛   ⠑   ⠏⠇⠁⠉⠑
 
 it is rather hot
-⠭ ⠊⠎ ⠗ ⠓⠕⠞
+⠭  ⠊⠎  ⠗   ⠓⠕⠞
 
 we will have no more
 ⠺⠑ ⠺ ⠓ ⠝⠕ ⠍
 
-you do very well so we will make you boss
-⠽ ⠙ ⠧ ⠺⠑⠇⠇ ⠎ ⠺⠑ ⠺ ⠍⠁⠅⠑ ⠽ ⠃⠕⠎⠎
+you  do very well so we  will make  you  boss
+⠽   ⠙   ⠧  ⠺⠑⠇⠇ ⠎ ⠺⠑  ⠺  ⠍⠁⠅⠑  ⠽   ⠃⠕⠎⠎
+
+------------------------------------------
+
+UNIT # Intensive Contractions (and, for, of, the, with)
+
+In the realm of braille, five specific groups of letters are denoted by distinct braille patterns or symbols.
+
+These symbols serve a dual purpose. They can function independently, representing an entire word (referred to as a wordsign). Alternatively, they can be integrated into a word, symbolizing the group of letters corresponding to the symbol (termed a groupsign).
+
+and     for     of     the    with
+⠯       ⠿       ⠷      ⠮       ⠾
+
+Examples:
+
+They can be employed as complete words.
+
+the    dogs      go    for     rides     with  people
+⠮     ⠙⠕⠛⠎     ⠛     ⠿     ⠗⠊⠙⠑⠎     ⠾     ⠏
+and   have   lots      of     fun
+⠯     ⠓     ⠇⠕⠞⠎     ⠷     ⠋⠥⠝
+
+They can also be utilized as components within a word.
+
+randy     foregoes     therapy    and    withdraws
+⠗⠯⠽     ⠿⠑⠛⠕⠑⠎     ⠮⠗⠁⠏⠽     ⠯     ⠾⠙⠗⠁⠺⠎
+to      the   sofa
+⠞⠕     ⠮     ⠎⠷⠁
+
+Other Partial Word Examples:
+
+hand   form    off     then    withdrew
+⠓⠯     ⠿⠍     ⠷⠋     ⠮⠝     ⠾⠙⠗⠑⠺
+
+grandma     effort    proof     other   withhold
+⠛⠗⠯⠍⠁     ⠑⠋⠿⠞     ⠏⠗⠕⠷     ⠕⠮⠗     ⠾⠓⠕⠇⠙
+
+demand    afford     soft     theme    withal
+⠙⠑⠍⠯     ⠁⠋⠿⠙     ⠎⠷⠞     ⠮⠍⠑     ⠾⠁⠇
 
