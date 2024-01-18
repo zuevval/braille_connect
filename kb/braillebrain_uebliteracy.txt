@@ -1,4 +1,4 @@
-UNIT 2 Alphabetic Wordsigns
+UNIT 2 ALPHABETIC WORDSIGNS
 
 Can you decipher this text?
 
@@ -68,7 +68,9 @@ you  do very well so we  will make  you  boss
 
 ------------------------------------------
 
-UNIT # Intensive Contractions (and, for, of, the, with)
+UNIT 3 STRONG CONTRACTIONS (AND, FOR, OF, THE, WITH), CAPITAL AND ENDING PUNCTUATION
+
+3A. INTENSIVE CONTRACTIONS (AND, FOR, OF, THE, WITH)
 
 In the realm of braille, five specific groups of letters are denoted by distinct braille patterns or symbols.
 
@@ -104,3 +106,60 @@ grandma     effort    proof     other   withhold
 demand    afford     soft     theme    withal
 ⠙⠑⠍⠯     ⠁⠋⠿⠙     ⠎⠷⠞     ⠮⠍⠑     ⠾⠁⠇
 
+
+3B. CAPITALIZATION AND TERMINAL PUNCTUATION
+Capital Letter   Capital Word   Period    Question Mark    Exclamation Point
+        ⠠           ⠠⠠            ⠲            ⠦                      ⠖
+
+Capitalization:
+Indicator for a capital letter: ⠠
+
+The capital letter indicator, or capital sign (dot 6), is positioned before a word or letter to denote it as a capital.
+
+Example:
+  Dan      Brady
+
+⠠⠙⠁⠝⠀  ⠠⠃⠗⠁⠙⠽
+
+Indicator for a capital word: ⠠⠠
+
+To capitalize an entire word, a capital word indicator (dot 6)(dot 6) is placed in front of the word.
+
+Example:
+   BIG      SALE
+
+⠠⠠⠃⠊⠛⠀  ⠠⠠⠎⠁⠇⠑
+
+Ending Punctuation:
+Ending punctuation is linked to a word or letter, just as in print. One space is left between a punctuation mark and the beginning of the next sentence.
+
+Period: ⠲
+
+Example:
+ The   quiz  is   next   week.
+
+⠠⠮⠀ ⠟⠥⠊⠵⠀ ⠊⠎⠀ ⠝⠑⠭⠞⠀⠺⠑⠑⠅⠲
+
+Question mark: ⠦
+
+Example:
+Can   I   have  a  hot  dog ?
+
+⠠⠉⠀ ⠠⠊⠀  ⠓ ⠀⠁⠀ ⠓⠕⠞⠀⠙⠕⠛⠦
+
+Exclamation point: ⠖
+
+Example:
+  Wow!   The  score   is  tied!
+
+⠠⠺⠕⠺⠖⠀⠠⠮⠀ ⠎⠉⠕⠗⠑⠀⠊⠎⠀⠞⠊⠑⠙⠖
+
+Example:
+HEY! Can you wait?
+
+My feet hurt.
+
+cap. word hey   excl. pt.    cap. can  you  wait   ?
+⠠⠠ ⠓⠑⠽             ⠖       ⠠    ⠉   ⠽   ⠺⠁⠊⠞ ⠦
+cap. my  feet    hurt .
+⠠ ⠍⠽   ⠋⠑⠑⠞  ⠓⠥⠗⠞ ⠲ 
