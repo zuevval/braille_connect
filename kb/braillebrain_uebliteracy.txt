@@ -166,7 +166,9 @@ cap. my  feet    hurt .
 
 ---------------------------------------------------
 
-UNIT 4 SYMBOLS FOR OPERATIONS AND COMPARISONS
+UNIT 4 MATH SIGNS OF OPERATION AND COMPARISON
+
+4A. SYMBOLS FOR OPERATIONS AND COMPARISONS
 
 The subsequent symbols are crafted using two cells. The initial cell is referred to as a prefix (typically comprised of dots 4, 5, and 6, as they are not used as letters).
 
@@ -244,3 +246,150 @@ Examples:
  ||||    ||||    ||
 
 ⠸⠸⠸⠸⠒⠀⠸⠸⠸⠸⠒⠀⠸⠸
+
+--------------------------------------
+
+UNIT 5  SINGLE CELL PUNCTUATION AND SHORTFORM WORDS
+
+5A. MORE SINGLE CELL PUNCTUATION
+
+You've already acquired knowledge about ending punctuation marks (period, question mark, and exclamation point).
+
+The subsequent single-cell punctuation signs are employed similarly to how they are used in print and adhere to the conventional print spacing.
+
+Comma (,) ⠂
+Apostrophe (') ⠄
+Opening Quotation Marks (") ⠦
+Closing Quotation Marks (") ⠴
+Semicolon (;) ⠆
+Colon (:) ⠒
+Hyphen (-) ⠤
+Ellipsis (3 periods) ⠲⠲⠲
+
+Note: The opening quotation mark resembles the question mark, but the difference lies in the fact that the opening quotation mark never appears at the end of a word, and the question mark never appears at the beginning of a word.
+
+Examples:
+Comma
+The  mural    is  crimson,    beige,  and   blue.
+
+⠠⠮⠀ ⠍⠥⠗⠁⠇⠀⠊⠎⠀⠉⠗⠊⠍⠎⠕⠝⠂⠀⠃⠑⠊⠛⠑⠂⠀⠯⠀  ⠃⠇⠥⠑⠲
+
+Apostrophe
+I’ve      got    Mimi’s      cold.
+
+⠠⠊⠄⠧⠑⠀ ⠛⠕⠞⠀  ⠠⠍⠊⠍⠊⠄⠎⠀ ⠉⠕⠇⠙⠲
+
+Quotation Marks
+"Hey,    that  is  not   fair!"   he   yelled.
+
+⠦⠠⠓⠑⠽⠂⠀⠞⠀  ⠊⠎⠀  ⠝⠀ ⠋⠁⠊⠗⠖⠴⠀ ⠓⠑⠀ ⠽⠑⠇⠇⠫⠲
+
+Semicolon
+Bob    makes     a   pass;    we    score.
+⠠⠃⠕⠃⠀ ⠍⠁⠅⠑⠎⠀ ⠁⠀ ⠏⠁⠎⠎⠆⠀  ⠺⠑⠀ ⠎⠉⠕⠗⠑⠲
+
+Colon
+Items:       hat,    pants,   and   jacket.
+
+⠠⠊⠞⠑⠍⠎⠒⠀  ⠓⠁⠞⠂⠀ ⠏⠁⠝⠞⠎⠂⠀⠯⠀  ⠚⠁⠉⠅⠑⠞⠲
+
+It   is   8:30.
+
+⠠⠭⠀ ⠊⠎⠀ ⠼⠓⠒⠼⠉⠚⠲
+
+Hyphen
+We  have  a   two-level      home.
+
+⠠⠺⠑⠀⠓⠀ ⠁⠀⠞⠺⠕⠤⠇⠑⠧⠑⠇⠀⠓⠕⠍⠑⠲
+
+Look     at     pages     5-7.
+
+⠠⠇⠕⠕⠅⠀⠁⠞⠀  ⠏⠁⠛⠑⠎⠀ ⠼⠑⠤⠼⠛⠲
+
+Ellipsis
+I   can  tell  you   but…
+
+⠠⠊⠀ ⠉⠀ ⠞⠑⠇⠇⠀ ⠽⠀  ⠃⠲⠲⠲
+
+Extra note:
+The alphabetic wordsigns (can, it, that) can be used with an apostrophe.
+
+I   can’t  eat  it  all.
+
+⠠⠊⠀⠉⠄⠞⠀ ⠑⠁⠞⠀ ⠭⠀  ⠁⠇⠇⠲
+
+It’s   a  very  nice   hat.
+
+⠠⠭⠄⠎⠀ ⠁⠀ ⠧⠀  ⠝⠊⠉⠑⠀  ⠓⠁⠞⠲
+
+That’ll  do  it!
+
+⠠⠞⠄⠇⠇⠀ ⠙⠀ ⠭⠖
+
+Brain Boost
+The following symbols are mentioned for your reference.
+
+Opening Single Quotation Mark (') ⠠⠦
+Closing Single Quotation Mark (') ⠠⠴
+
+Example:
+"If     I   say   'go,'     we  run  for  it!"
+
+⠦⠠⠊⠋⠀⠠⠊⠀ ⠎⠁⠽⠀ ⠠⠦⠛⠂⠠⠴⠀⠺⠑⠀⠗⠥⠝⠀ ⠿⠀ ⠭⠖⠴
+
+
+5B. SHORTFORM WORDS (FIRST TWO LETTERS) 
+
+Shortform words or abbreviated words do not necessitate any distinct braille symbol; they are straightforwardly condensed forms of common words achieved by excluding vowels or other segments of the word. Most of them can be pronounced using common sense.
+
+There is a total of 75 abbreviated words.
+
+Guidelines:
+
+Abbreviated words can serve as both complete words and partial words.
+Usage as partial words is permissible for both compound and segmented words.
+They can also be applied to proper names, provided the abbreviated word encompasses the entire proper name.
+Avoid using an abbreviated word if it might lead to confusion in pronunciation.
+
+Shortform Words (Initial Two Letters)
+This set of shortform words or abbreviated words utilizes the initial two letters of the word it signifies.
+
+Word    Abbreviation Braille 
+about       ab          ⠁⠃  
+according   ac          ⠁⠉  
+after       af          ⠁⠋  
+again       ag          ⠁⠛ 
+also        al          ⠁⠇
+blind       bl          ⠃⠇
+either      ei          ⠑⠊
+friend      fr          ⠋⠗
+little *    ll          ⠇⠇
+NOTE: Notice that little is an exception and uses two ls instead of the initial two letters.
+
+Examples:
+I will call my friend again after a little bit.
+
+I   will call   my   fr   ag   af  a  ll  bit.
+
+⠠⠊⠀ ⠺⠀ ⠉⠁⠇⠇⠀ ⠍⠽⠀ ⠋⠗⠀ ⠁⠛⠀ ⠁⠋⠀⠁⠀⠇⠇⠀ ⠃⠊⠞⠲
+
+
+According to the news, we will have either sun or fog.
+
+Ac    to   the   news,   we    will   have   ei   sun    or   fog.
+
+⠠⠁⠉⠀ ⠞⠕⠀ ⠮⠀  ⠝⠑⠺⠎⠀   ⠺⠑⠀  ⠺⠀    ⠓⠀   ⠑⠊⠀  ⠎⠥⠝⠀ ⠕⠗⠀ ⠋⠕⠛⠲
+
+
+It is cold, and it is also about to hail.
+
+It    is    cold,  and   it   is   al   ab   to  hail.
+
+⠠⠭⠀ ⠊⠎⠀  ⠉⠕⠇⠙⠀  ⠯⠀   ⠭⠀  ⠊⠎⠀ ⠁⠇⠀ ⠁⠃⠀ ⠞⠕⠀ ⠓⠁⠊⠇⠲
+
+
+Blind dates can turn to boyfriend and girlfriend.
+
+ Bl    dates   can   turn    to    boyfr    and   girlfr.
+
+⠠⠃⠇⠀ ⠙⠁⠞⠑⠎⠀ ⠉⠀  ⠞⠥⠗⠝⠀  ⠞⠕⠀   ⠃⠕⠽⠋⠗⠀  ⠯⠀  ⠛⠊⠗⠇⠋⠗⠲
