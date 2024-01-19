@@ -542,6 +542,16 @@ I   will call   my   fr   ag   af  a  ll  bit.
 
 ⠠⠊⠀ ⠺⠀ ⠉⠁⠇⠇⠀ ⠍⠽⠀ ⠋⠗⠀ ⠁⠛⠀ ⠁⠋⠀⠁⠀⠇⠇⠀ ⠃⠊⠞⠲
 
+I ⠠⠊
+will ⠺⠀
+call ⠉⠁⠇⠇⠀
+my ⠍⠽⠀
+fr ⠋⠗⠀
+ag ⠁⠛⠀
+af ⠁⠋⠀
+a ⠁⠀
+ll ⠇⠇⠀
+bit. ⠃⠊⠞⠲
 
 According to the news, we will have either sun or fog.
 
@@ -549,12 +559,34 @@ Ac    to   the   news,   we    will   have   ei   sun    or   fog.
 
 ⠠⠁⠉⠀ ⠞⠕⠀ ⠮⠀  ⠝⠑⠺⠎⠀   ⠺⠑⠀  ⠺⠀    ⠓⠀   ⠑⠊⠀  ⠎⠥⠝⠀ ⠕⠗⠀ ⠋⠕⠛⠲
 
+Ac ⠠⠁⠉
+to ⠞⠕⠀
+the ⠮⠀
+news, ⠝⠑⠺⠎⠀
+we ⠺⠑⠀
+will ⠺⠀
+have ⠓⠀
+ei ⠑⠊⠀
+sun ⠈⠤⠑⠀
+or ⠕⠗⠀
+fog. ⠋⠕⠛⠲
 
 It is cold, and it is also about to hail.
 
 It    is    cold,  and   it   is   al   ab   to  hail.
 
 ⠠⠭⠀ ⠊⠎⠀  ⠉⠕⠇⠙⠀  ⠯⠀   ⠭⠀  ⠊⠎⠀ ⠁⠇⠀ ⠁⠃⠀ ⠞⠕⠀ ⠓⠁⠊⠇⠲
+
+It ⠠⠭⠀
+is ⠊⠎
+cold, ⠊⠕⠇⠙⠀
+and ⠯⠀
+it ⠭⠀
+is ⠊⠎⠀
+al ⠁⠇⠀
+ab ⠁⠃⠀
+to ⠞⠕⠀
+hail. ⠓⠁⠊⠇⠲
 
 
 Blind dates can turn to boyfriend and girlfriend.
@@ -563,6 +595,14 @@ Blind dates can turn to boyfriend and girlfriend.
 
 ⠠⠃⠇⠀ ⠙⠁⠞⠑⠎⠀ ⠉⠀  ⠞⠥⠗⠝⠀  ⠞⠕⠀   ⠃⠕⠽⠋⠗⠀  ⠯⠀  ⠛⠊⠗⠇⠋⠗⠲
 
+Bl ⠠⠃⠇⠀
+dates ⠙⠁⠞⠑⠎⠀
+can ⠉⠀
+turn ⠞⠥⠗⠝⠀
+to ⠞⠕⠀
+boyfr ⠃⠕⠽⠋⠗⠀
+and ⠯⠀
+girlfr. ⠛⠊⠗⠇⠋⠗⠲
 
 --------------------------------------
 
@@ -572,40 +612,70 @@ UNIT 6 STRONG GROUPSIGNS (CH, SH, TH, WH, OU, ST), WORDSIGNS AND SHORTFORM WORDS
 
 The following 2-letter combinations are represented in braille by a one-cell braille shape.
 
-ch	sh	th	wh	ou	st
-⠡	⠩	⠹	⠱	⠳	⠌
-
+ch   ⠡
+sh   ⠩
+th   ⠹
+wh   ⠱
+ou   ⠳
+st   ⠌
 
 Strong Groupsigns
 When these braille shapes are used as part of a word, they are called groupsigns. They may be used in any part of a word for the letters they represent.
 
 Example of words containing these strong groupsigns:
 
-cheese	  hush	  teeth	  whale	  pour	  waste
-⠡⠑⠑⠎⠑	  ⠓⠥⠩	  ⠞⠑⠑⠹	  ⠱⠁⠇⠑	  ⠏⠳⠗	  ⠺⠁⠌⠑
+cheese    ⠡⠑⠑⠎⠑
+hush      ⠓⠥⠩
+teeth     ⠞⠑⠑⠹
+whale     ⠱⠁⠇⠑
+pour      ⠏⠳⠗
+waste     ⠺⠁⠌⠑
+
 Example of words with multiple strong groupsigns:
 
-(ch)ur(ch)	(sh)(ou)t	(th)ra(sh)	(wh)ite	    (ou)(ch)	(wh)i(st)le
-  ⠡⠥⠗⠡	             ⠩⠳⠞	   ⠹⠗⠁⠩	 ⠱⠊⠞⠑	       ⠳⠡	⠱⠊⠌⠇⠑
-
+(ch)ur(ch)      ⠡⠥⠗⠡
+(sh)(ou)t       ⠩⠳⠞
+(th)ra(sh)       ⠹⠗⠁⠩
+(wh)ite          ⠱⠊⠞⠑
+(ou)(ch)         ⠳⠡
+(wh)i(st)le      ⠱⠊⠌⠇⠑
 
 Strong Wordsigns
 When these same groupsigns stand alone with an empty space before and behind, they represent a whole word.
 
 These wordsigns represent the following words:
 
-child	shall	this	which	out	still
-⠡	⠩	⠹	⠱	⠳	⠌
-
+child   ⠡
+shall   ⠩
+this    ⠹
+which   ⠱
+out     ⠳
+still   ⠌
 
 Example of sentences containing these 2-letter whole-word contractions:
 
 This	child	still	wants	 to	go	out	.
 ⠠⠹	⠡	⠌	⠺⠁⠝⠞⠎	 ⠞⠕	⠛	⠳	⠲
 
+This    ⠠⠹
+child   ⠡
+still   ⠌
+wants   ⠺⠁⠝⠞⠎
+to      ⠞⠕
+go      ⠛
+out     ⠳
+.       ⠲
+
 
 Which	color	shall	I	pick	?
 ⠠⠱	⠉⠕⠇⠕⠗	  ⠩	⠠⠊	⠏⠊⠉⠅	⠦
+
+Which   ⠠⠱
+color   ⠉⠕⠇⠕⠗
+shall   ⠩
+I       ⠠⠊
+pick    ⠏⠊⠉⠅
+?       ⠦
 
 Shortform Words (First Letter/Last Letter)
 Shortform words do not require any special braille symbol. They are simply shortened forms of common words.
@@ -652,6 +722,14 @@ I   wd  h  if   I  cd  h.
 
 ⠠⠊⠀⠺⠙⠀⠓⠀⠊⠋⠀⠠⠊⠀⠉⠙⠀⠓⠲
 
+I     ⠠⠊
+wd    ⠺⠙
+h     ⠓
+if    ⠊⠋
+I     ⠠⠊
+cd    ⠉⠙
+h     ⠓⠲
+
 
 The puppy wags its tail so much.
 
@@ -659,12 +737,27 @@ The  puppy    wags   xs   tail   so  m(ch).
 
 ⠠⠮⠀ ⠏⠥⠏⠏⠽⠀ ⠺⠁⠛⠎⠀ ⠭⠎⠀ ⠞⠁⠊⠇⠀⠎⠀ ⠍⠡⠲
 
+The     ⠠⠮
+puppy   ⠏⠥⠏⠏⠽
+wags    ⠺⠁⠛⠎
+xs      ⠭⠎
+tail    ⠞⠁⠊⠇
+so      ⠎
+m(ch)   ⠍⠡⠲
+
 
 The children threw such a fuss.
 
 The  (ch)n  threw  s(ch) a  fuss.
 
 ⠠⠮⠀ ⠡⠝⠀  ⠹⠗⠑⠺⠀  ⠎⠡⠀  ⠁⠀⠋⠥⠎⠎⠲
+
+The    ⠠⠮
+(ch)n   ⠡⠝
+threw   ⠹⠗⠑⠺
+s(ch)   ⠎⠡
+a      ⠁
+fuss   ⠋⠥⠎⠎⠲
 
 
 These examples show shortform words used as part of a word.
@@ -675,12 +768,29 @@ Mom     sd   we   shd   run   qkly   home.
 
 ⠠⠍⠕⠍⠀ ⠎⠙⠀ ⠺⠑⠀ ⠩⠙⠀ ⠗⠥⠝⠀ ⠟⠅⠇⠽⠀ ⠓⠕⠍⠑⠲
 
+Mom     ⠠⠍⠕⠍
+sd      ⠎⠙
+we      ⠺⠑
+shd     ⠩⠙
+run     ⠗⠥⠝
+qkly    ⠟⠅⠇⠽
+home    ⠓⠕⠍⠑⠲
+
 
 The first grade children wrote letters to him.
 
 The  fst  grade        chn    wrote    lrs     to    hm.
 
 ⠠⠮⠀  ⠋⠌⠀ ⠛⠗⠁  ⠙⠑⠀  ⠡⠝⠀  ⠺⠗⠕⠞⠑⠀  ⠇⠗⠎⠀   ⠞⠕⠀  ⠓⠍⠲
+
+The     ⠠⠮
+fst     ⠋⠌
+grade   ⠛⠗⠁⠙⠑
+chn     ⠡⠝
+wrote   ⠺⠗⠕⠞⠑
+lrs     ⠇⠗⠎
+to      ⠞⠕⠀
+hm.      ⠓⠍⠲
 
 
 This example shows the shortform word used as part of a compound word.
@@ -691,6 +801,11 @@ Mr.     Gdman     pd   yr    bill.
 
 ⠠⠍⠗⠲⠀ ⠠⠛⠙⠍⠁⠝⠀ ⠏⠙⠀  ⠽⠗⠀ ⠃⠊⠇⠇⠲
 
+Mr.     ⠠⠍⠗⠲
+Gdman   ⠠⠛⠙⠍⠁⠝
+pd      ⠏⠙
+yr      ⠽⠗
+bill.    ⠃⠊⠇⠇⠲
 
 This example shows the shortform word used as proper noun.
 
@@ -700,5 +815,9 @@ Ms.     Qk    sd    hello.
 
 ⠠⠍⠎⠲⠀ ⠠⠟⠅⠀ ⠎⠙⠀  ⠓⠑⠇⠇⠕⠲
 
+Ms.     ⠠⠍⠎⠲
+Qk      ⠠⠟⠅
+sd      ⠎⠙
+hello   ⠓⠑⠇⠇⠕⠲
 
 They are used whenever the whole word (child, shall, this, which, still, out) is used.
