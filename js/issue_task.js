@@ -63,8 +63,10 @@ export default async function main(args) {
       ...listOfTuples,
     ];
   }
-  
-  const randomTuple = getRandomTuple(listOfTuples);
+  let randomTuple = listOfTuples[0];
+  do {
+    randomTuple = getRandomTuple(listOfTuples);
+  } while (randomTuple[1] == inputVars._prev_answer)
   _task = randomTuple[0];
   _answer = randomTuple[1];
 

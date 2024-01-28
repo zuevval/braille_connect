@@ -62,8 +62,12 @@ export default async function main(args) {
       ...listOfTuples,
     ];
   }
+
+  let randomTuple = listOfTuples[0];
+  do {
+    randomTuple = getRandomTuple(listOfTuples);
+  } while (randomTuple[5] == inputVars._prev_correct_option)
   
-  const randomTuple = getRandomTuple(listOfTuples);
   const _task = randomTuple[0];
   const _game_option1 = randomTuple[1];
   const _game_option2 = randomTuple[2];
@@ -89,3 +93,4 @@ export default async function main(args) {
     ],
   };
 }
+
